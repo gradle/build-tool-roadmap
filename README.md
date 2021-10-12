@@ -12,7 +12,9 @@ Our main areas of focus for the Gradle Build Tool are performance and ease of us
 
 On performance side, we focus primarily on making [incremental builds](https://docs.gradle.org/current/userguide/more_about_tasks.html#sec:up_to_date_checks) much faster. The goal is to optimize making frequent small changes in the development process. For example, when running a test in Intellij IDEA with "delegate to Gradle" option or when deploying a change to an emulator in Android Studio, the feedback loop should be as fast as possible.
 
-Currently, Gradle's configuration phase adds some overhead in incremental builds which can be very noticeable especially in large builds. This is being addressed by the [configuration cache](https://github.com/gradle/build-tool-roadmap/issues/2) that caches the configuration phase in subsequent builds. On top of the caching, we are also making the configurion phase much faster through [isolated projects](https://github.com/gradle/build-tool-roadmap/issues/3). Another goal of the isolated projects work is to significantly decrease IDE sync time. 
+Currently, Gradle's configuration phase adds some overhead in incremental builds which can be very noticeable especially in large builds. This is being addressed by the [configuration cache](https://github.com/gradle/build-tool-roadmap/issues/2) that caches the configuration phase in subsequent builds. 
+
+We are also working on addressing a big point for many teams with long sync times in the IDE through [isolated projects](https://github.com/gradle/build-tool-roadmap/issues/3) work. This project will also make configuration cache much faster in addition to caching mentioned above. 
 
 In Gradle 7.0, we [enabled file system watching by default](https://github.com/gradle/build-tool-roadmap/issues/11) which helps to avoid a lot of I/O operations during incremental builds by storing file system state in memory. We are now working on [using the underlying infrastructure to improve the continous build](https://github.com/gradle/build-tool-roadmap/issues/4) feature.
 

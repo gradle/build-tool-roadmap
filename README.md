@@ -2,7 +2,7 @@
 
 ## About this repository
 
-This repository contains a public roadmap for the Gradle Build Tool project. Major engineering projects are captured as GitHub issues, which only Gradle stuff can create or update. You can subscribe to this repository to get updates about the current projects. You can also see a board with status of each item at https://github.com/orgs/gradle/projects/13/views/1. 
+This repository contains a public roadmap for the Gradle Build Tool project. Major engineering projects are captured as GitHub issues, which only Gradle staff can create or update. You can subscribe to this repository to get updates about the current projects. You can also see a board with status of each item at https://github.com/orgs/gradle/projects/13/views/1. 
 
 Many smaller improvements and bug fixes are made in every Gradle release. See the [issue tracker](https://github.com/gradle/gradle/issues) and release notes for details.
 

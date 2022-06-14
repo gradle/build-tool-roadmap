@@ -10,4 +10,6 @@ Many smaller improvements and bug fixes are made in every Gradle release. See th
 
 ### Disclaimer
 
-We are sharing this roadmap in good faith, based on the information we have and the decisions we made at the time of making each update. We’ll also do our best to keep the information provided here up-to-date. However, our plans may change at any time for various reasons and we can’t guarantee delivery of any of the listed items in estimated time. 
+A few words of caution from our lawyers ;) 
+
+> The information contained in this Gradle Build Tool Roadmap (the "Roadmap") is intended to outline our general product direction, which is subject to change at any time. The content provided in this Roadmap is provided for informational purposes only and is not a commitment, promise or legal obligation to deliver any material, code, or functionality and should not be relied upon in making purchasing or other decisions. The development, release and timing of any features or functionality described in this Roadmap remains at the sole discretion of Gradle, Inc. Product capabilities, timeframes and features are subject to change and should not be viewed as commitments.  

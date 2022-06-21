@@ -8,7 +8,11 @@ The board also shows the past two quarters so that you can see what was delivere
 
 Many smaller improvements and bug fixes are made in every Gradle release. See the [issue tracker](https://github.com/gradle/gradle/issues), [milestones](https://github.com/gradle/gradle/milestones), and [release notes](https://gradle.org/releases/) for details.
 
-### Disclaimer
+## Feedback
+
+Comments on the roadmap board itself are disabled to keep it neat and tidy. Instead, reach out to us on the [community Slack](https://gradle-community.slack.com) #roadmap channel. 
+
+## Disclaimer
 
 A few words of caution from our lawyers :wink: 
 

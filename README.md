@@ -7,6 +7,13 @@ Gradle regularly delivers releases packed with enhancements, bug fixes, and new 
 
 The roadmap board is hosted on GitHub and organizes major projects and user-facing improvements by quarter and target release. Each item includes a brief description and links to relevant issues in the issue tracker, allowing you to follow the progress of specific features.
 
+The board also shows the past two quarters so that you can see what we delivered in recent Gradle releases.
+![Board image](image.png)
+
+Each roadmap item provides a brief description and links to related issues in the [issue tracker](https://github.com/gradle/gradle/issues).
+
+![alt text](issue-image.png)
+
 For a summary of recent updates, please refer to the [Recent Releases](https://github.com/orgs/gradle/projects/31/views/8).
 
 While the roadmap highlights key initiatives, every Gradle release also includes numerous smaller improvements and bug fixes. For a full breakdown of these changes, visit the [issue tracker](https://github.com/gradle/gradle/issues), [milestones](https://github.com/gradle/gradle/milestones), and [release notes](https://gradle.org/releases/).

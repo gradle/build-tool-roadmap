@@ -1,5 +1,5 @@
 # Gradle Build Tool Roadmap
----
+
 ## About this Roadmap
 The Gradle Build Tool roadmap provides a clear, high-level overview of key engineering projects and user-facing features planned for future Gradle releases. Our goal is to offer the Gradle community greater transparency about what to expect in upcoming versions and to illustrate how the tool is evolving to meet users' needs.
 
@@ -18,12 +18,10 @@ For a summary of recent updates, please refer to the [Recent Releases](https://g
 
 While the roadmap highlights key initiatives, every Gradle release also includes numerous smaller improvements and bug fixes. For a full breakdown of these changes, visit the [issue tracker](https://github.com/gradle/gradle/issues), [milestones](https://github.com/gradle/gradle/milestones), and [release notes](https://gradle.org/releases/).
 
----
 
 ## Feedback
 To maintain clarity and organization, comments are disabled directly on the roadmap board. However, we welcome your feedback and questions on the [community Slack](https://gradle-community.slack.com) in the **#roadmap** channel.
 
----
 ## Disclaimer
 
 A few words of caution from our lawyers :wink:

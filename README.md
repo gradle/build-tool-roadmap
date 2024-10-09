@@ -1,6 +1,11 @@
 # Gradle Build Tool Roadmap
 
 ## About this Roadmap
+
+You can see the current projects on our project board:
+
+[![View Project Board](https://img.shields.io/badge/View%20Project%20Board-008CBA?style=flat&logo=github&logoColor=white)](https://github.com/orgs/gradle/projects/31/views/1)
+
 The Gradle Build Tool roadmap provides a clear, high-level overview of key engineering projects and user-facing features planned for future Gradle releases. Our goal is to offer the Gradle community greater transparency about what to expect in upcoming versions and to illustrate how the tool is evolving to meet users' needs.
 
 Gradle regularly delivers releases packed with enhancements, bug fixes, and new features. Historically, we communicated these changes through [release notes](https://gradle.org/releases/), [blog posts](https://blog.gradle.org/), [issue trackers](https://github.com/gradle/gradle/issues), [forums](https://discuss.gradle.org/), and [community Slack](https://gradle-community.slack.com/). However, we recognized the need for a more organized and comprehensive overview of what’s on the horizon. This roadmap addresses that need, providing users with a clearer picture of where the Gradle Build Tool is headed.

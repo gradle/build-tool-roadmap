@@ -11,7 +11,7 @@ body:
     attributes:
       label: Summary / Manifesto
       description: > 
-        Describe what value this project brings to Gradle, and what areas/topics it should address.
+        Describe what value this project brings to Gradle users and the ecosystem, and what areas/topics it will address.
       required: true
 
   - type: textarea

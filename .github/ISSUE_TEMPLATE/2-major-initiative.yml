@@ -1,8 +1,8 @@
 name: '🚚 New Initiative'
 labels: 'initiative'
 description: >
-  This is a long-term project that spans across multiple minor or even major releases.
-  Such initiatives represent a major focused work,
+  This is a project which normally spans several minor or even major releases,
+  and will deliver significant new functionality with major impact.
   for example "Configuration Cache" or "Clean and Actionable Error Reporting".
   Initiatives group common roadmap items (EPICs) addressing a common goal.
 
@@ -19,7 +19,7 @@ body:
       label: References
       description: >
         Provide links to any relevant documentation, prior work, other materials or issues/pull requests that can be used for inspiration.
-        When some results for this initiative become available to try out, some quick start guidelines are welcome!
+        When results for this initiative become available to try out, quick start guidelines are welcome!
       required: true
   
   - type: textarea

@@ -1,18 +1,18 @@
 name: '📦 New Roadmap Item'
 labels: 'enhancement'
 description: >
-  This is a project which normally spans within a single across a few minor releases,
-  and that become major deliverables when shipped.
+  This is a project which normally spans several minor releases,
+  and will deliver significant new functionality.
   Potential examples are "Support for Java 22", "Problems HTML Summary Report", 
   "Isolated Projects: Incubating Status" or "Declarative Gradle EAP 2".
-  Consider it "EPIC" in normal Agile terms.
+  Consider it an "EPIC" in normal Agile terms.
 
 body:
   - type: textarea
     attributes:
       label: Summary / Manifesto
       description: > 
-        Describe what value this project brings to Gradle, and what areas/topics it should address.
+        Describe what value this project brings to Gradle, and what areas/topics it will address.
       required: true
 
   - type: textarea
@@ -20,7 +20,7 @@ body:
       label: References
       description: >
         Provide links to any relevant initiatives, documentation, prior work, other materials or issues/pull requests that can be used for inspiration.
-        When some results for this initiative become available to try out, some quick start guidelines are welcome!
+        When results for this initiative become available to try out, quick start guidelines are welcome!
   
   - type: textarea
     attributes:

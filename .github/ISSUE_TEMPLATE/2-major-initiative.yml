@@ -20,7 +20,7 @@ body:
     attributes:
       label: References
       description: >
-        Provide links to any relevant documentation, prior work, materials or issues/pull requests that for inspiration.
+        Provide links to any relevant docs, prior work, materials or issues/PRs for inspiration.
         When results for this initiative become available to try out, quick start guidelines are welcome!
     validations:
       required: true

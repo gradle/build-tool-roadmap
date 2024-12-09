@@ -12,6 +12,7 @@ body:
       label: Summary / Manifesto
       description: > 
         Describe what value this project brings to Gradle users and the ecosystem, and what areas/topics it will address.
+         Make sure to set the context so that it can be understood by the initiative's target audience, e.g. a software developer or a build engineer.
       required: true
 
   - type: textarea

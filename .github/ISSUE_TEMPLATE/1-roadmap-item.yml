@@ -3,9 +3,9 @@ labels: 'enhancement'
 description: >
   This is a project which normally spans several minor releases,
   and will deliver significant new functionality.
-  Potential examples are "Support for Java 22", "Problems HTML Summary Report", 
-  "Isolated Projects: Incubating Status" or "Declarative Gradle EAP 2".
-  Consider it an "EPIC" in normal Agile terms.
+#  Potential examples are "Support for Java 22", "Problems HTML Summary Report", 
+#  "Isolated Projects: Incubating Status" or "Declarative Gradle EAP 2".
+#  Consider it an "EPIC" in normal Agile terms.
 
 body:
   - type: textarea
@@ -14,6 +14,7 @@ body:
       description: > 
         Describe what value this project brings to Gradle users and the ecosystem, and what areas/topics it will address.
         Make sure to set the context so that it can be understood by the project's target audience, e.g. a software developer or a build engineer.
+    validations:
       required: true
 
   - type: textarea

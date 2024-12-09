@@ -38,5 +38,5 @@ body:
 
   - type: textarea
     attributes:
-      label: Prerequisites
+      label: Follow-ups
       description: Link other initiatives that depend on this initiative

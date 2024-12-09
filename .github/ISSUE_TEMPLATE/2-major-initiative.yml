@@ -1,0 +1,42 @@
+name: '🚚 New Initiative'
+labels: 'initiative'
+description: >
+  This is a project which normally spans several minor or even major releases,
+  and will deliver significant new functionality with major impact.
+  for example "Configuration Cache" or "Clean and Actionable Error Reporting".
+  Initiatives group common roadmap items (EPICs) addressing a common goal.
+
+body:
+  - type: textarea
+    attributes:
+      label: Summary / Manifesto
+      description: > 
+        Describe what value this project brings to Gradle users and the ecosystem, and what areas/topics it will address.
+         Make sure to set the context so that it can be understood by the initiative's target audience, e.g. a software developer or a build engineer.
+      required: true
+
+  - type: textarea
+    attributes:
+      label: References
+      description: >
+        Provide links to any relevant documentation, prior work, other materials or issues/pull requests that can be used for inspiration.
+        When results for this initiative become available to try out, quick start guidelines are welcome!
+      required: true
+  
+  - type: textarea
+    attributes:
+      label: Discussion Channels
+      description: >
+        Reference the channels that can be used for discussion and sharing feedback.
+        These could be community Slack channels, feedback forms
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Prerequisites
+      description: Link other initiatives that need to be completed before this item can be fully shipped.
+
+  - type: textarea
+    attributes:
+      label: Prerequisites
+      description: Link other initiatives that depend on this initiative

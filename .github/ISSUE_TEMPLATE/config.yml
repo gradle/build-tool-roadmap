@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "🛟 Community Slack"
+    url: https://community.gradle.org/contributing/community-slack/
+    about: >
+      There is also the `#roadmap` channel if you want to share feedback on the roadmap.
+      For recent releases, there is also `releases-discussion`.
+  

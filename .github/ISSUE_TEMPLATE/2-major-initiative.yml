@@ -13,6 +13,7 @@ body:
       description: > 
         Describe what value this project brings to Gradle users and the ecosystem, and what areas/topics it will address.
          Make sure to set the context so that it can be understood by the initiative's target audience, e.g. a software developer or a build engineer.
+    validations:
       required: true
 
   - type: textarea
@@ -21,6 +22,7 @@ body:
       description: >
         Provide links to any relevant documentation, prior work, other materials or issues/pull requests that can be used for inspiration.
         When results for this initiative become available to try out, quick start guidelines are welcome!
+    validations:
       required: true
   
   - type: textarea
@@ -29,6 +31,7 @@ body:
       description: >
         Reference the channels that can be used for discussion and sharing feedback.
         These could be community Slack channels, feedback forms
+    validations:
       required: true
 
   - type: textarea
